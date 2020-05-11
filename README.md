@@ -27,7 +27,7 @@ You will need to print all of the items from the project *except for the
 two mounting stand-offs*.  There are four other items called standoffs that
 support case bottom from the TFT35 PCB.  Those must be printed.
 
-You will need a M3x8mm screw to attach the ball to this mounting bracket.
+You will need an M3x8mm screw to attach the ball to this mounting bracket.
 You will need 2 M3x5mm screws and two M3 nuts to attach the front to the back.
 And you will need 4 M3x20mm screws to assemble the TFT35 enclosure.
 
