@@ -21,7 +21,7 @@ between the two parts.
 
 This is designed to be used with the
 [Slim and Elegant BTT TFT35 V3 Touch Screen](https://www.thingiverse.com/thing:4246505)
-on by [3Deddy](https://www.thingiverse.com/3Deddy).
+on Thingiverse by [3Deddy](https://www.thingiverse.com/3Deddy).
 
 You will need to print all of the items from the project *except for the
 two mounting stand-offs*.  There are four other items called standoffs that
